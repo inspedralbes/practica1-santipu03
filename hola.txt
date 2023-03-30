@@ -1,3 +1,5 @@
 Hola
 
 Aquest és un canvi desde la web
+
+Aquesta és la modificació desde el terminal
